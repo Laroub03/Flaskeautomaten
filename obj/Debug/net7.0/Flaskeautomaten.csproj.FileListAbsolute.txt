@@ -1,0 +1,15 @@
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/bin/Debug/net7.0/Flaskeautomaten
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/bin/Debug/net7.0/Flaskeautomaten.deps.json
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/bin/Debug/net7.0/Flaskeautomaten.runtimeconfig.json
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/bin/Debug/net7.0/Flaskeautomaten.dll
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/bin/Debug/net7.0/Flaskeautomaten.pdb
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.csproj.AssemblyReference.cache
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.AssemblyInfoInputs.cache
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.AssemblyInfo.cs
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.csproj.CoreCompileInputs.cache
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.dll
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/refint/Flaskeautomaten.dll
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.pdb
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/Flaskeautomaten.genruntimeconfig.cache
+/Users/ayoublaroub/projects/Flaskeautomaten/Flaskeautomaten/obj/Debug/net7.0/ref/Flaskeautomaten.dll
